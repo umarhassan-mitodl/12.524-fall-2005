@@ -5,6 +5,8 @@ description: This file contains lecture on introduction on deformation mechanism
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/510adc800055cbcbee79fa0de843aecd_l14_p_de_in_min.pdf
 file_size: 222857
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

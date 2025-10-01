@@ -6,6 +6,8 @@ description: Using the Paterson gas-medium apparatus, students will measure axia
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/74c1eac622b6ccbb9dfa2082df1038e7_labii_com_tescar.pdf
 file_size: 131825
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

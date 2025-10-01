@@ -6,6 +6,8 @@ description: This file contains lecture on elasticity of rocks, exact elastic tr
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/5391822762bde05dbaa14091808aaaef_l7b_s_e_u_t_ge_0.pdf
 file_size: 149792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

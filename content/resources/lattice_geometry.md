@@ -5,6 +5,8 @@ description: This resource discusses about lattice points, crystal basis, and cr
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/02a7b11235075325ecc153de1ba111ad_lattice_geometry.pdf
 file_size: 542646
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

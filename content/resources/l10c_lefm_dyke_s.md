@@ -5,6 +5,8 @@ description: 'This file contains notes for the topic: Linear Elastic Fracture Me
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/bcca7d3308822f6bd2c2044c76e4a89e_l10c_lefm_dyke_s.pdf
 file_size: 156947
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

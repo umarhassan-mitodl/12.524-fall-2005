@@ -4,6 +4,8 @@ description: Supporting file for Lab 1.
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/0e388ba92105ec77bb2935f3a85984f6_squaregrains.pdf
 file_size: 35541
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

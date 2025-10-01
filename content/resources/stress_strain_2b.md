@@ -5,6 +5,8 @@ description: This resource discusses about the topic strain, examples of strain,
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/71bda7a0bc09d20dc77f76e6cf5db36d_stress_strain_2b.pdf
 file_size: 636415
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

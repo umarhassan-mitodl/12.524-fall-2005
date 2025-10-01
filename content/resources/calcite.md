@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/a77530e3c22285c54e9b560ef3ac900d_calcite.tif
 file_size: 922457
 file_type: image/tiff
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

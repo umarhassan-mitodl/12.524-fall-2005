@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/88068ce257cb1294834ec7e1a1c992ef_25pointgrid.tif
 file_size: 235730
 file_type: image/tiff
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

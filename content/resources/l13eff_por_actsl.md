@@ -5,6 +5,8 @@ description: 'This file contains notes for the topic: Brittle Fracture and Slidi
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/3394535178c3b12709df92150cee77d7_l13eff_por_actsl.pdf
 file_size: 197350
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

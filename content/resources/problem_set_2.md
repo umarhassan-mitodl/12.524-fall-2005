@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/e29331c6132445362ef07683aa57b0f8_problem_set_2.pdf
 file_size: 85428
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
