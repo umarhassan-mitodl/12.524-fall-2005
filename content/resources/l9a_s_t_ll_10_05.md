@@ -5,8 +5,6 @@ description: This file contains lecture on surface energy and capillarity forces
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/3508f4793319f04b66a3dd83d7cc7e92_l9a_s_t_ll_10_05.pdf
 file_size: 107906
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

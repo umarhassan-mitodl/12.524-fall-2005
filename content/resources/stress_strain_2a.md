@@ -5,8 +5,6 @@ description: This resource discusses the topic stress, shear moments and symmetr
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/95e1fffe7fb66aeda9e17ca7316bec93_stress_strain_2a.pdf
 file_size: 663520
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

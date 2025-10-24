@@ -7,8 +7,6 @@ description: This file contains lecture on friction in rocks, physical processes
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/72fa1e994656a841ecd6846a0ff65e4d_l4_5fric_rock_09_26.pdf
 file_size: 514820
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

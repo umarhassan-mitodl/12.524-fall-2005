@@ -4,8 +4,6 @@ description: 'This file contains notes for the topic: Stress Strain Strength pro
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/41dfd3a71345a316d95e208a21f888ac_strs_strn_const.pdf
 file_size: 1570529
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

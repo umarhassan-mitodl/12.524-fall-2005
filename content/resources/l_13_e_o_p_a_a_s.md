@@ -7,8 +7,6 @@ description: This file contains lecture on brittle fracture and sliding summary 
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/3606d68710282a0393c054c5d9c10d1f_l_13_e_o_p_a_a_s.pdf
 file_size: 216543
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

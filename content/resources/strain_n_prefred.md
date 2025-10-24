@@ -6,8 +6,6 @@ description: This resource discusses about strain during glide, inclined slip pl
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/7a39368f43b57bc3c334a32f6c75a28f_strain_n_prefred.pdf
 file_size: 270831
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

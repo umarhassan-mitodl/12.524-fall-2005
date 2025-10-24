@@ -4,8 +4,6 @@ description: This file contains lecture on
 file: /courses/12-524-mechanical-properties-of-rocks-fall-2005/56611e62b40e25d5539736a099f924b9_str_str_co.pdf
 file_size: 1570529
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
